@@ -12,7 +12,7 @@ const _dmSans = DM_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Ditt Selskap | Din lokale rorlegger",
+  title: "Ditt Selskap | Din lokale rærlegger",
   description:
     "Profesjonell rorleggerservice i ditt naerområde. Lekkasjer, bad og kjokken, varmtvannsbereder og mer. Kontakt oss for uforpliktende tilbud.",
 };
